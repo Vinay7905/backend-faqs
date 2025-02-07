@@ -281,4 +281,3 @@ These are the sreenshots taken during testing
 This API provides an easy-to-use backend for FAQ management with multilingual support. It integrates with MongoDB to store data and uses Google Translate API for real-time translations. The application is built with Node.js and Express.js and follows best practices for RESTful APIs, ensuring scalability and maintainability.
 # backend-faqs
 # backend-faqs
-# backend-faqs
